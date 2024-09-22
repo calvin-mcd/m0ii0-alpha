@@ -1,4 +1,4 @@
-24405097431090321
+24408454327345632
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91825,6 +91825,13 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
+Sleep-lib
+RP2040-QFN-56
+QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
+QFN DFN_QFN
+0
+70
+57
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -99042,3 +99049,10 @@ Varistor VF
 0
 2
 2
+W25Q16JVUXIQ
+SON50P300X200X60-9N
+<b>USON 2x3x0.6-mm</b><br>
+
+0
+9
+9
