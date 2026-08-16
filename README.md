@@ -10,7 +10,7 @@ alpha stagger pcb for the 40% kaWaii m0ii0 by [yohewi](https://github.com/yohewi
 
 ## Todo
 
-- [ ] order & test pcb
+- [x] order & test pcb
 
 ## Disclaimer
 
