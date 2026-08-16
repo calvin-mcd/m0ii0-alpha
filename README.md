@@ -14,7 +14,7 @@ alpha stagger pcb for the 40% kaWaii m0ii0 by [yohewi](https://github.com/yohewi
 
 ## Disclaimer
 
-Please note that this project is a work in progress with no guarantees of a working outcome. No-one involved in this project is responsible for any usage issues that may arise. However, feel free to edit, modify and otherwise utilise these files.
+This PCB has been fully tested and confirmed to work. The members of the PCB development team are however not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
 
 ## License
 
